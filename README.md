@@ -5,10 +5,9 @@ A collection of 10 Python functions completed as part of a CFC workshop assignme
 - Conditionals and loops  
 - List manipulation  
 - String handling  
-- Function creation  
+- Function creation
 
----
-
+  
 ## Assignment List
 
 1. **Even or Odd Checker** - Determine if a number is even or odd.  
@@ -20,13 +19,20 @@ A collection of 10 Python functions completed as part of a CFC workshop assignme
 7. **Palindrome Checker** - Check if a word reads the same forwards and backwards.  
 8. **Pattern Printer** - Print a triangle pattern using `*`.  
 9. **Sum of List Elements** - Calculate the sum of numbers in a list.  
-10. **Custom Greeting Function** - Return a personalized greeting based on the time of day.  
+10. **Custom Greeting Function** - Return a personalized greeting based on the time of day.
 
----
-
+    
 ## 🚀 How to Run
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Python-Assignment-CFC.git
+git clone https://github.com/aarya25dh/Python-Function_Assignment.git
+```
+
+2. Open the Python file in your IDE or editor.
+3. Call the functions in Python or write a simple script to test them.
+
+   
+## License
+This project is open-source and free to use.
